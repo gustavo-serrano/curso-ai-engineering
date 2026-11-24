@@ -1,0 +1,5 @@
+openai
+anthropic
+pydantic>=2,<3
+python-dotenv
+httpx
